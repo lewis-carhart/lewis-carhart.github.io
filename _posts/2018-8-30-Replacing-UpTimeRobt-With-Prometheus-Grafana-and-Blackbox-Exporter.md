@@ -3,16 +3,16 @@ layout: post
 title: Replacing UpTimeRobot with Prometheus, Grafana and Blackbox Exporter
 ---
 
-# Create a DigitalOcean droplet using Terraform
+## Create a DigitalOcean droplet using Terraform
 
-# Configure your DigitalOcean droplet
+## Configure your DigitalOcean droplet
 
-# Install Docker & Docker Compose
+## Install Docker & Docker Compose
 
-# Clone
+## Clone
 
-# Clone Blackbox Exporter
+## Clone Blackbox Exporter
 
-# Configuration
+## Configuration
 
-# Finish
+## Finish
