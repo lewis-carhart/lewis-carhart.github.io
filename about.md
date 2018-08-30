@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey, I'm Lewis.
 
-### More Information
+I'm a DevOps Engineer based in Hedge End, Southampton. I'm happy employed at Maru/eDR, an Internet Market Research company.
 
-A place to include any other types of information that you'd like to include about yourself.
+I have experience with the following technologies:
+* Puppet
+* Ansible
+* Terraform
+* Docker
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can contact me at:
+
+[lewis@ontapmedia.co.uk](mailto:lewis@ontapmedia.co.uk)
