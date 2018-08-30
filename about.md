@@ -6,13 +6,14 @@ permalink: /about/
 
 Hey, I'm Lewis.
 
-I'm a DevOps Engineer based in Hedge End, Southampton. I'm happy employed at Maru/eDR, an Internet Market Research company.
+I'm a DevOps Engineer based in Hedge End, Southampton. I'm happily employed at [Maru/eDR](https://maruedr.com)
 
-I have experience with the following technologies:
+I get to use these cool tools almost everyday:
 * Puppet
 * Ansible
 * Terraform
 * Docker
+* Prometheus/Grafana
 
 ### Contact me
 
